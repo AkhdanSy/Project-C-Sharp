@@ -1,0 +1,14 @@
+C:\Users\AXIOO\Downloads\M Akhdan Syauqi\Piramida\Piramida\bin\Debug\net8.0\Piramida.exe
+C:\Users\AXIOO\Downloads\M Akhdan Syauqi\Piramida\Piramida\bin\Debug\net8.0\Piramida.deps.json
+C:\Users\AXIOO\Downloads\M Akhdan Syauqi\Piramida\Piramida\bin\Debug\net8.0\Piramida.runtimeconfig.json
+C:\Users\AXIOO\Downloads\M Akhdan Syauqi\Piramida\Piramida\bin\Debug\net8.0\Piramida.dll
+C:\Users\AXIOO\Downloads\M Akhdan Syauqi\Piramida\Piramida\bin\Debug\net8.0\Piramida.pdb
+C:\Users\AXIOO\Downloads\M Akhdan Syauqi\Piramida\Piramida\obj\Debug\net8.0\Piramida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AXIOO\Downloads\M Akhdan Syauqi\Piramida\Piramida\obj\Debug\net8.0\Piramida.AssemblyInfoInputs.cache
+C:\Users\AXIOO\Downloads\M Akhdan Syauqi\Piramida\Piramida\obj\Debug\net8.0\Piramida.AssemblyInfo.cs
+C:\Users\AXIOO\Downloads\M Akhdan Syauqi\Piramida\Piramida\obj\Debug\net8.0\Piramida.csproj.CoreCompileInputs.cache
+C:\Users\AXIOO\Downloads\M Akhdan Syauqi\Piramida\Piramida\obj\Debug\net8.0\Piramida.dll
+C:\Users\AXIOO\Downloads\M Akhdan Syauqi\Piramida\Piramida\obj\Debug\net8.0\refint\Piramida.dll
+C:\Users\AXIOO\Downloads\M Akhdan Syauqi\Piramida\Piramida\obj\Debug\net8.0\Piramida.pdb
+C:\Users\AXIOO\Downloads\M Akhdan Syauqi\Piramida\Piramida\obj\Debug\net8.0\Piramida.genruntimeconfig.cache
+C:\Users\AXIOO\Downloads\M Akhdan Syauqi\Piramida\Piramida\obj\Debug\net8.0\ref\Piramida.dll
